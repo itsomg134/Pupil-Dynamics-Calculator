@@ -2,7 +2,7 @@
 
 An interactive, real-time simulation of human pupil response to **light intensity (luminance)** and **focus distance (accommodative near response)**. Built with pure HTML5 Canvas, CSS, and vanilla JavaScript.
 
-![Pupil Calculator Demo](https://via.placeholder.com/800x400?text=Eye+Pupil+Simulation+Preview)
+<img width="1877" height="1192" alt="image" src="https://github.com/user-attachments/assets/368b9fbe-62ae-43ba-8aaf-adeb1d4a2e9e" />
 
 ##  Overview
 
